@@ -166,11 +166,8 @@ public class DarkSkyHomePage  extends BasePage {
     }
 
 
+
 }
-
-
-
-
 
 
 //    private By registerTitle = By.xpath("//h1[@class='stand-alone title']");
@@ -185,6 +182,9 @@ public class DarkSkyHomePage  extends BasePage {
 //    }
 
 
+     //System.out.println(getTextFromElement(dailyTimeLineTemp));-----
+// System.out.println("Helo"+ Integer.valueOf(temp_string.toString().substring(0,temp_string.toString().length()-1)));
+//---
 
 
 //    public void getDailyTimeLineTemps() {
